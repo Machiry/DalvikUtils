@@ -1,0 +1,6 @@
+dalvik/vm/Profile.h
+dalvik/vm/Profile.cpp
+dalvik/vm/Globals.h
+dalvik/vm/oo/Object.h
+dalvik/vm/Dvm.mk
+dalvik/vm/native
